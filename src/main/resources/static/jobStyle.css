@@ -1,0 +1,38 @@
+.intro{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 150%;
+    color: darkgreen;
+}
+.jumbotron{
+    margin-top: 250px;
+    background: rgba(204, 204, 204, 0.5);
+}
+.navbar-brand{
+    margin-left: 700px;
+}
+.jobLabel{
+    font-weight: bold;
+    font-family: Serif;
+}
+.frontpage{
+    background: url("/intro.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jobDetail{
+    background: url("/form.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wholeForm{
+    background: rgba(204, 204, 204, 0.5);
+    margin-bottom: 50px;
+}
+.jobform{
+    margin-left: 150px;
+}
